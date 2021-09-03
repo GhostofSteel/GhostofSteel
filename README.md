@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GhostofSteel
+- 👀 I’m interested in computer games and martial arts!
+- 🌱 I’m currently learning How to make more responsive web apps and better backend infrastructure!
+- 📫 I can be reached on joel.lundhag@gmail.com!
